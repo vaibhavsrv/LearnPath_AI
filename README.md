@@ -11,7 +11,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](#)
 [![Team](https://img.shields.io/badge/Team-NightCoders-blue?style=for-the-badge)](#team)
 
-[Live Demo](https://frontend-mu-jet-18.vercel.app) · [Documentation](./docs/documentation.md) · [Video Demo](#)
+[Live Demo](https://frontend-mu-jet-18.vercel.app) · [Documentation](./docs/documentation.md)
 
 </div>
 
