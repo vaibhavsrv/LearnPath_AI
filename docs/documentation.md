@@ -219,15 +219,12 @@ submitFeedback("machine-learning", "easy", 40);
 
 ## 8. Team — NightCoders
 
-**Team NightCoders · Team size: 5/5 · HCLTech AMPlified 2025 (Round 2)**
+**Team NightCoders · HCLTech AMPlified 2025 (Round 2)**
 
 | Member | Role | Email |
 |--------|------|-------|
-| Rounak Mishra | Full Stack + AI/ML Engine | rounakmishra06@gmail.com |
-| Varun Jain | Team Lead, Backend & ML | varunjain2409@gmail.com |
-| Prashant Sharma | Frontend & UX | prashantsharma.ai28@jecrc.ac.in |
-| Raghav Gupta | Data & Testing | raghav.23bcon1939@jecrcu.edu.in |
-| Parth Manocha | Documentation | parth.manocha2901@gmail.com |
+| Vaibhav Srivastava | Team Lead, Full Stack & AI | srvvaibhav8@gmail.com |
+| Rounak Mishra | Full Stack + AI/ML Engine | mrounak198@gmail.com |
 
 **Institution:** JECRC University, Jaipur
 

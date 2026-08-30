@@ -219,15 +219,12 @@ Pre-loaded profiles for instant demo (no onboarding needed):
 
 ## Team
 
-**NightCoders** — JECRC University, Jaipur · Team size 5/5
+**NightCoders** — JECRC University, Jaipur
 
 | Member | Role | Email |
 |--------|------|-------|
-| Varun Jain | Team Lead, Backend & ML | varunjain2409@gmail.com |
-| Rounak Mishra | Full Stack + AI/ML Engine | rounakmishra06@gmail.com |
-| Prashant Sharma | Frontend & UX | prashantsharma.ai28@jecrc.ac.in |
-| Raghav Gupta | Data & Testing | raghav.23bcon1939@jecrcu.edu.in |
-| Parth Manocha | Documentation | parth.manocha2901@gmail.com |
+| Vaibhav Srivastava | Team Lead, Full Stack & AI | srvvaibhav8@gmail.com |
+| Rounak Mishra | Full Stack + AI/ML Engine | mrounak198@gmail.com |
 
 ## License
 
